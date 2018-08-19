@@ -31,7 +31,7 @@ import com.alibaba.fastjson.JSON;
 public class UserController extends HttpServlet {
 
 	private static final long serialVersionUID = -4517082409888184884L;
-	private static Logger logger = Logger.getLogger(UserController.class);
+
 	private UserServiceI userService = new UserServiceImpl();
 
 	@Override
