@@ -1,0 +1,574 @@
+2018-08-19 13:53:59 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 13:53:59 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 13:53:59 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 13:53:59 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 13:53:59 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:07:22 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:07:22 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:07:22 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:07:22 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:07:22 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:07:35 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 14:07:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:07:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:07:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:07:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:15:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:15:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:15:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:15:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:15:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 14:15:35 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 14:15:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:15:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:15:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:15:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:16:57 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 14:16:57 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:16:57 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:16:57 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 14:16:57 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:18:17 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:18:17 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:18:17 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:18:17 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:18:17 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:18:59 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:18:59 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:18:59 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:18:59 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:18:59 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:21:04 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:21:04 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:21:04 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:21:04 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:21:04 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:21:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:21:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:21:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:21:05 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:21:05 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:21:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:21:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:21:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:21:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:21:25 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:23:31 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:23:35 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:23:35 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:23:35 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:23:35 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:27:07 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:27:07 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:27:07 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:27:07 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:27:07 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:27:07 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:27:07 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:27:07 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:27:07 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:27:07 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-08-19 15:27:07 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-08-19 15:27:07 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-08-19 15:27:07 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-08-19 15:27:07 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: DepartmentMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: ModuleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: ResourceMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: RoleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: RoleModuleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: RoleResourceMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: UserRoleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/DepartmentMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/DepartmentMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ModuleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ModuleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ResourceMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ResourceMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleModuleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleModuleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleResourceMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleResourceMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserRoleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserRoleMapper.xml
+2018-08-19 15:27:07 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:27:07 UserMapperTest.java INFO Not yet implemented
+2018-08-19 15:29:33 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:29:33 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:29:33 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:29:33 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:29:33 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:30:01 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:30:02 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:30:02 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:30:02 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:30:02 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:30:48 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:30:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:30:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:30:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:30:48 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:30:48 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-08-19 15:30:48 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-08-19 15:30:48 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-08-19 15:30:48 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-08-19 15:30:48 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: DepartmentMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: ModuleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: ResourceMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: RoleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: RoleModuleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: RoleResourceMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: UserRoleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/DepartmentMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/DepartmentMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ModuleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ModuleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ResourceMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ResourceMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleModuleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleModuleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleResourceMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleResourceMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserRoleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserRoleMapper.xml
+2018-08-19 15:30:48 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:31:50 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:31:51 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:31:51 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:31:51 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:31:51 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:31:51 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-08-19 15:31:51 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-08-19 15:31:51 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-08-19 15:31:51 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-08-19 15:31:51 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: dao
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet/dao
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet/dao
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: test
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet/dao
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet/dao/test
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet/dao/test
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: UserMapperTest.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet/dao/test
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet/dao/test/UserMapperTest.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/test-classes/org/songzx/firstservlet/dao/test/UserMapperTest.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 Z  /org/songzx/firstservlet/dao/test/UserMapperTest  java/lang/Object logger Lorg/apache/log4j/Logger; <clinit> ()V Code
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: dao
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: mapper
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: model
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: DepartmentMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: DepartmentMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ModuleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ModuleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: plugin
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ResourceMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ResourceMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleModuleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleModuleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleResourceMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleResourceMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: UserMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: UserMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: UserRoleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: UserRoleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: util
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/DepartmentMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/DepartmentMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4    deleteByPrimaryKey (Ljava/lang/Integer;)I insert -(Lorg/songzx/firstservlet/model/Department;)I insertSelective selectByPrimaryKey ?(Ljava/lang/Integer;)Lorg/songzx/firstservlet/model/Department; updateByPrimaryKeySelective updateByPrimaryKey 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/DepartmentMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/DepartmentMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/ModuleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/ModuleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4    deleteByPrimaryKey (Ljava/lang/Integer;)I insert )(Lorg/songzx/firstservlet/model/Module;)I insertSelective selectByPrimaryKey ;(Ljava/lang/Integer;)Lorg/songzx/firstservlet/model/Module; updateByPrimaryKeySelective updateByPrimaryKey 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/ModuleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/ModuleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/plugin
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/plugin
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: HowitzerPlugin.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: HowitzerPlugin.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/plugin
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/plugin/HowitzerPlugin.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/plugin/HowitzerPlugin.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 7
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/plugin/HowitzerPlugin.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/plugin/HowitzerPlugin.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao.plugin;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/ResourceMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/ResourceMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4    deleteByPrimaryKey (Ljava/lang/Integer;)I insert +(Lorg/songzx/firstservlet/model/Resource;)I insertSelective selectByPrimaryKey =(Ljava/lang/Integer;)Lorg/songzx/firstservlet/model/Resource; updateByPrimaryKeySelective updateByPrimaryKey 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/ResourceMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/ResourceMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4    deleteByPrimaryKey (Ljava/lang/Integer;)I insert '(Lorg/songzx/firstservlet/model/Role;)I insertSelective selectByPrimaryKey 9(Ljava/lang/Integer;)Lorg/songzx/firstservlet/model/Role; updateByPrimaryKeySelective updateByPrimaryKey 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleModuleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleModuleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleModuleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleModuleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleResourceMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleResourceMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleResourceMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/RoleResourceMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/UserMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/UserMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4    deleteByPrimaryKey (Ljava/lang/Integer;)I insert '(Lorg/songzx/firstservlet/model/User;)I insertSelective selectByPrimaryKey 9(Ljava/lang/Integer;)Lorg/songzx/firstservlet/model/User; updateByPrimaryKeySelective updateByPrimaryKey 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/UserMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/UserMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/UserRoleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/UserRoleMapper.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/UserRoleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/UserRoleMapper.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/util
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/util
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: DBConnectUtil.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: DBConnectUtil.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/util
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/util/DBConnectUtil.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/util/DBConnectUtil.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 X
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/util/DBConnectUtil.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/dao/util/DBConnectUtil.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.dao.util;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: DepartmentMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ModuleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ResourceMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleModuleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleResourceMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: UserRoleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/DepartmentMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/DepartmentMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ModuleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ModuleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ResourceMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ResourceMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleModuleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleModuleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleResourceMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleResourceMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserRoleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserRoleMapper.xml
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: Department.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: Department.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: Module.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: Module.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: Resource.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: Resource.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: Role.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: Role.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleModule.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleModule.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleResource.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: RoleResource.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: User.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: User.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: UserRole.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: UserRole.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Department.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Department.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 K
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Department.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Department.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.model;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Module.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Module.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 F
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Module.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Module.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.model;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Resource.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Resource.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 U
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Resource.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Resource.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.model;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Role.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Role.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 <
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Role.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/Role.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.model;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/RoleModule.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/RoleModule.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/RoleModule.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/RoleModule.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.model;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/RoleResource.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/RoleResource.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/RoleResource.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/RoleResource.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.model;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/User.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/User.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 ]
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/User.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/User.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.model;
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/UserRole.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/UserRole.class
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: ����   4 
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/UserRole.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/model/UserRole.java
+2018-08-19 15:31:51 DefaultVFS.java DEBUG Reader entry: package org.songzx.firstservlet.model;
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.test.UserMapperTest matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.DepartmentMapper matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.ModuleMapper matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.plugin.HowitzerPlugin matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.ResourceMapper matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.RoleMapper matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.RoleModuleMapper matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.RoleResourceMapper matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.UserMapper matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.UserRoleMapper matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.dao.util.DBConnectUtil matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.model.Department matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.model.Module matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.model.Resource matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.model.Role matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.model.RoleModule matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.model.RoleResource matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.model.User matches criteria [is assignable to Object]
+2018-08-19 15:31:51 ResolverUtil.java DEBUG Checking to see if class org.songzx.firstservlet.model.UserRole matches criteria [is assignable to Object]
+2018-08-19 15:32:15 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:32:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:32:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:32:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:32:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:32:15 VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-08-19 15:32:15 JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-08-19 15:32:15 VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-08-19 15:32:15 VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-08-19 15:32:15 VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: DepartmentMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: ModuleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: ResourceMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: RoleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: RoleModuleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: RoleResourceMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: UserMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: UserRoleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Listing file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/DepartmentMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/DepartmentMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ModuleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ModuleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ResourceMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/ResourceMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleModuleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleModuleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleResourceMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/RoleResourceMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Find JAR URL: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserRoleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Not a JAR: file:/home/songzx/sourceCode/2018/firstservlet/target/classes/org/songzx/firstservlet/mapper/UserRoleMapper.xml
+2018-08-19 15:32:15 DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2018-08-19 15:43:18 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:43:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:43:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:43:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:43:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:51:11 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:51:12 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:51:12 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:51:12 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:51:12 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:53:32 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:53:32 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:53:32 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:53:32 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:53:32 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:55:50 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:55:51 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:55:51 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:55:51 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:55:51 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:59:34 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 15:59:34 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:59:34 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:59:34 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 15:59:34 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:00:32 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:00:33 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:00:33 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:00:33 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:00:33 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:01:09 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:01:09 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:01:09 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:01:09 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:01:09 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:02:30 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:02:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:02:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:02:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:02:31 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:03:38 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:03:38 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:03:38 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:03:38 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:03:38 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:05:36 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:05:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:05:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:05:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:05:36 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:09:40 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:09:40 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:09:40 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:09:40 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:09:40 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:09:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:09:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:09:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:09:40 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:09:40 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:10:10 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:10:10 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:10:10 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:10:10 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:10:10 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:12:00 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:12:00 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:12:00 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:12:00 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:12:00 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:16:17 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:16:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:16:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:16:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:16:18 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:17:15 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:17:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:17:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:17:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:17:15 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:21:23 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:21:23 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:21:23 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:21:23 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:21:23 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:21:23 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-08-19 16:22:09 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:22:10 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:22:10 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:22:10 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:22:10 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:22:10 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-08-19 16:22:10 PooledDataSource.java DEBUG Created connection 490150701.
+2018-08-19 16:22:10 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1d371b2d]
+2018-08-19 16:22:10 BaseJdbcLogger.java DEBUG ==>  Preparing: select id, username, password, fullname, gender, is_admin, department_id, is_lock, is_delete, create_person, create_date, update_person, update_date from p_user where id = ? 
+2018-08-19 16:22:10 BaseJdbcLogger.java DEBUG ==> Parameters: 1(Integer)
+2018-08-19 16:22:10 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-08-19 16:22:11 UserServiceImpl.java INFO {"createDate":1382288689000,"createPerson":"system","departmentId":0,"fullname":"管理员","gender":true,"id":1,"isAdmin":true,"isDelete":false,"isLock":true,"password":"63a9f0ea7bb98050796b649e85481845","updateDate":1382288689000,"updatePerson":"system","username":"root"}
+2018-08-19 16:22:11 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1d371b2d]
+2018-08-19 16:22:11 JdbcTransaction.java DEBUG Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1d371b2d]
+2018-08-19 16:22:11 PooledDataSource.java DEBUG Returned connection 490150701 to pool.
+2018-08-19 16:23:14 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:23:14 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:23:14 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:23:14 UserMapperTest.java INFO Not yet implemented
+2018-08-19 16:23:14 LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-08-19 16:23:14 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:23:14 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:23:14 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:23:14 PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-08-19 16:23:15 JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-08-19 16:23:15 PooledDataSource.java DEBUG Created connection 854507466.
+2018-08-19 16:23:15 JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@32eebfca]
+2018-08-19 16:23:15 BaseJdbcLogger.java DEBUG ==>  Preparing: select id, username, password, fullname, gender, is_admin, department_id, is_lock, is_delete, create_person, create_date, update_person, update_date from p_user where id = ? 
+2018-08-19 16:23:15 BaseJdbcLogger.java DEBUG ==> Parameters: 1(Integer)
+2018-08-19 16:23:15 BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-08-19 16:23:15 UserServiceImpl.java INFO {"createDate":1382288689000,"createPerson":"system","departmentId":0,"fullname":"管理员","gender":true,"id":1,"isAdmin":true,"isDelete":false,"isLock":true,"password":"63a9f0ea7bb98050796b649e85481845","updateDate":1382288689000,"updatePerson":"system","username":"root"}
+2018-08-19 16:23:15 JdbcTransaction.java DEBUG Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@32eebfca]
+2018-08-19 16:23:15 JdbcTransaction.java DEBUG Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@32eebfca]
+2018-08-19 16:23:15 PooledDataSource.java DEBUG Returned connection 854507466 to pool.
+2018-08-19 16:23:15 UserMapperTest.java INFO Not yet implemented
